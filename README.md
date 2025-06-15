@@ -118,3 +118,4 @@ Sinta-se à vontade para contribuir com melhorias, correções ou novas funciona
 
 Este projeto utiliza dados públicos do Gapminder e está disponível para uso educacional e de pesquisa.
 
+![Logo do Projeto](dash.png)
